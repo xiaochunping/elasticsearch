@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/elasticsearch:v6.2.5
+FROM elastic/elasticsearch:6.3.2
 MAINTAINER xcp.email@gmail.com
